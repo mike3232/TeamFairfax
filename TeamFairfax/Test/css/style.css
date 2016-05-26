@@ -1,0 +1,39 @@
+/*
+stylesheet for Test
+*/
+
+
+/*******************
+	Main Layout
+******************/
+
+body {
+	background-color: #000;
+	color: #fff;
+}
+
+#header-container{
+	height: 100px;
+	width: 400px;
+	margin: 0 auto;
+	
+}
+
+.main-header{
+	margin-top: 20px;
+	text-align: center;
+}
+
+#p-container{
+	width: 200px;
+	margin: 0 auto;
+	border: 2px solid #fff;
+	border-radius: 4%;
+	padding: 20px;
+}
+
+.bold{
+	color: #f2e;
+}
+
+
